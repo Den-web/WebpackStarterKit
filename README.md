@@ -1,3 +1,3 @@
-# Webpack. Полный курс 2020
+# Webpack Starter kit project.
 
-https://www.youtube.com/watch?v=eSaF8NXeNsA 
+## 
